@@ -1,0 +1,11 @@
+{
+  "LiteBuildConfig": {
+    "contents": ["content"],
+    "output_dir": "_site"
+  },
+  "PipliteAddon": {
+    "piplite_urls": [
+      "https://files.pythonhosted.org/packages/source/i/ipywidgets/ipywidgets-8.1.5.tar.gz"
+    ]
+  }
+}
