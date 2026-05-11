@@ -5,7 +5,7 @@ Los alumnos abren un link y experimentan con 5 modelos directo en el navegador �
 
 ## 🌐 Link público (rellenar después del primer deploy)
 
-`https://<TU_USUARIO>.github.io/<NOMBRE_DEL_REPO>/lab/index.html?path=README.md`
+`[https://<TU_USUARIO>.github.io/<NOMBRE_DEL_REPO>/lab/index.html?path=README.md](https://crazyhrodgar.github.io/ML_Playground/)`
 
 ## 📚 Modelos incluidos
 
