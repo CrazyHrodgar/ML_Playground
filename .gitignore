@@ -1,0 +1,18 @@
+# Build output
+_site/
+.jupyterlite.doit.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Editores
+.vscode/
+.idea/
+.DS_Store
+
+# Notebooks: checkpoints
+.ipynb_checkpoints/
