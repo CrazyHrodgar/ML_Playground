@@ -108,3 +108,5 @@ Comparte SOLO el link público. No necesitan instalar nada — solo un navegador
 ---
 
 > Hecho para la materia *Tópicos de Inteligencia de Negocios*
+>
+> Creado por Dr. Angel Moisés Hernández Ponce con ayuda de Claude Code
