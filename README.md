@@ -5,7 +5,7 @@ Los alumnos abren un link y experimentan con 5 modelos directo en el navegador �
 
 ## 🌐 Link público (rellenar después del primer deploy)
 
-`(https://crazyhrodgar.github.io/ML_Playground/)`
+`https://crazyhrodgar.github.io/ML_Playground/`
 
 ## 📚 Modelos incluidos
 
@@ -110,3 +110,4 @@ Comparte SOLO el link público. No necesitan instalar nada — solo un navegador
 > Hecho para la materia *Tópicos de Inteligencia de Negocios*
 >
 > Creado por Dr. Angel Moisés Hernández Ponce con ayuda de Claude Code
+> Contacto: angel.hp@queretaro.tecnm.mx
